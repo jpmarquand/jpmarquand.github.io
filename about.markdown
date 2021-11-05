@@ -1,18 +1,14 @@
 ---
 layout: page
 title: About
+order: 3
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Marquand.org is a work in progress. We hope to ultimately be the best Marquand resource on the internet, which means that we're mainly competing with Wikipedia.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+In the next months, we hope to assemble a bibliography of Marquand's own work, collect articles about Marquand, and provide costume patterns,
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Feel free to send comments and suggestions to the email address listed in the footer. We are very open to any submissions!
 
-
-[jekyll-organization]: https://github.com/jekyll
+It is our decided opinion that the Moto novels are dreck. They will not be mentioned again. 
