@@ -8,5 +8,5 @@ layout: page
 
 ![stoop](/assets/stoop.jpg)
 
-Welcome to Marquand.org, the only website dedicated exclusively to the appreciation and promotion of John Marquand's literary novels. 
+Welcome to Marquand.org, the  most popular (and only) website dedicated exclusively to the appreciation and promotion of John Marquand's literary novels. 
 
