@@ -27,10 +27,13 @@ url: "www.marquand.org" # the base hostname & protocol for your site, e.g. http:
 twitter_username: 
 github_username:
 
+tagline: The number one site for the literary novels of John P. Marquand.
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

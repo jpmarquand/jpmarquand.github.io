@@ -4,6 +4,7 @@
 layout: page
 title: Bibliography
 order: 5
+description: A comprehensive John P. Marquand bibliography.
 ---
 
 
