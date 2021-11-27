@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Marquand.org
+title: The John Marquand Society of North America
 email: info [at] marquand.org
 description: >- # this means to ignore newlines until "baseurl:"
   Appreciating the Literary Novels of John P. Marquand (1893-1960).
