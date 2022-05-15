@@ -1,9 +1,7 @@
 ---
-
-
 layout: page
 title: Bibliography
-order: 5
+order: 1
 description: A comprehensive John P. Marquand bibliography.
 ---
 
@@ -39,12 +37,12 @@ description: A comprehensive John P. Marquand bibliography.
 
 #### Films
 
--  [H.M. Pulham, Esq. (Dir. King Vidor)](https://www.imdb.com/title/tt0039556/)(December 1941)
+-  [H.M. Pulham, Esq. (Dir. King Vidor)](https://www.imdb.com/title/tt0039556/) (December 1941)
 -  [The Late George Apley (Dir. Joseph L. Mankiewicz)](https://www.imdb.com/title/tt0039556/) (March 1947)
 - [B. F.'s Daughter (Dir. Robert Z. Leonard)](https://www.imdb.com/title/tt0040141/?ref_=nm_flmg_wr_12) (April 1948)
 - [Top Secret Affair (Melville Goodwin, U.S.A)](https://www.imdb.com/title/tt0051097/) (Dir. H. C. Potter) (January 1957)
 
-#### Radio
+#### Radio (click to listen!)
 
 - [Wickford Point (Orson Welles, Campbell Playhouse)](https://orsonwelles.indiana.edu/items/show/1986#?c=0&m=0&s=0&cv=4&xywh=-343%2C233%2C1936%2C1721) (May 1939)
 - [H. M. Pulham Esquire (Lux Radio Hour)](https://archive.org/download/OTRR_Lux_Radio_Theater_Singles/Lux_Radio_Theatre_42-07-13_360_HM_Pulham_Esq.mp3) (July 1942)
